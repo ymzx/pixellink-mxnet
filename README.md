@@ -11,3 +11,7 @@ CUDA Version 9.2.148<br/>
 NVIDIA Corporation GP106 [GeForce GTX 1060 6GB]<br/>
 # run
 python main.py<br/>
+# Warning
+The data in /data dir is not allowed to spread<br/>
+
+
