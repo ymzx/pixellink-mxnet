@@ -9,3 +9,5 @@ cv2==4.1.1<br/>
 PIL==6.2.1<br/>
 CUDA Version 9.2.148<br/>
 NVIDIA Corporation GP106 [GeForce GTX 1060 6GB]<br/>
+# run
+python main.py<br/>
