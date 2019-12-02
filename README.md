@@ -1,3 +1,8 @@
+# reference
+《PixelLink Detecting Scene Text via Instance Segmentation》 
+https://arxiv.org/pdf/1801.01315.pdf
+
+
 # Pixellink-mxnet
 reconsitution pixellink by mxnet <br/>
 
